@@ -1,1 +1,3 @@
-# Googlr_Gmail_Api
+# Send email using Google Gmail Api
+
+## Tech Stack
